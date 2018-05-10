@@ -1,0 +1,2 @@
+# jalanwae.js
+jalanwae
